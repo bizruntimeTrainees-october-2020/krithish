@@ -1,0 +1,13 @@
+C:\Users\krithish\source\repos\Program7\bin\Debug\netcoreapp3.1\Program7.exe
+C:\Users\krithish\source\repos\Program7\bin\Debug\netcoreapp3.1\Program7.deps.json
+C:\Users\krithish\source\repos\Program7\bin\Debug\netcoreapp3.1\Program7.runtimeconfig.json
+C:\Users\krithish\source\repos\Program7\bin\Debug\netcoreapp3.1\Program7.runtimeconfig.dev.json
+C:\Users\krithish\source\repos\Program7\bin\Debug\netcoreapp3.1\Program7.dll
+C:\Users\krithish\source\repos\Program7\bin\Debug\netcoreapp3.1\Program7.pdb
+C:\Users\krithish\source\repos\Program7\obj\Debug\netcoreapp3.1\Program7.csprojAssemblyReference.cache
+C:\Users\krithish\source\repos\Program7\obj\Debug\netcoreapp3.1\Program7.AssemblyInfoInputs.cache
+C:\Users\krithish\source\repos\Program7\obj\Debug\netcoreapp3.1\Program7.AssemblyInfo.cs
+C:\Users\krithish\source\repos\Program7\obj\Debug\netcoreapp3.1\Program7.csproj.CoreCompileInputs.cache
+C:\Users\krithish\source\repos\Program7\obj\Debug\netcoreapp3.1\Program7.dll
+C:\Users\krithish\source\repos\Program7\obj\Debug\netcoreapp3.1\Program7.pdb
+C:\Users\krithish\source\repos\Program7\obj\Debug\netcoreapp3.1\Program7.genruntimeconfig.cache

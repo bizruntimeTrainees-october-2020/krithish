@@ -1,0 +1,13 @@
+C:\Users\krithish\source\repos\CsharpBasics\bin\Debug\netcoreapp3.1\CsharpBasics.exe
+C:\Users\krithish\source\repos\CsharpBasics\bin\Debug\netcoreapp3.1\CsharpBasics.deps.json
+C:\Users\krithish\source\repos\CsharpBasics\bin\Debug\netcoreapp3.1\CsharpBasics.runtimeconfig.json
+C:\Users\krithish\source\repos\CsharpBasics\bin\Debug\netcoreapp3.1\CsharpBasics.runtimeconfig.dev.json
+C:\Users\krithish\source\repos\CsharpBasics\bin\Debug\netcoreapp3.1\CsharpBasics.dll
+C:\Users\krithish\source\repos\CsharpBasics\bin\Debug\netcoreapp3.1\CsharpBasics.pdb
+C:\Users\krithish\source\repos\CsharpBasics\obj\Debug\netcoreapp3.1\CsharpBasics.csprojAssemblyReference.cache
+C:\Users\krithish\source\repos\CsharpBasics\obj\Debug\netcoreapp3.1\CsharpBasics.AssemblyInfoInputs.cache
+C:\Users\krithish\source\repos\CsharpBasics\obj\Debug\netcoreapp3.1\CsharpBasics.AssemblyInfo.cs
+C:\Users\krithish\source\repos\CsharpBasics\obj\Debug\netcoreapp3.1\CsharpBasics.csproj.CoreCompileInputs.cache
+C:\Users\krithish\source\repos\CsharpBasics\obj\Debug\netcoreapp3.1\CsharpBasics.dll
+C:\Users\krithish\source\repos\CsharpBasics\obj\Debug\netcoreapp3.1\CsharpBasics.pdb
+C:\Users\krithish\source\repos\CsharpBasics\obj\Debug\netcoreapp3.1\CsharpBasics.genruntimeconfig.cache
