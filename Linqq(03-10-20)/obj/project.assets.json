@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\krithish\\source\\repos\\ExceptionHandling\\ExceptionHandling.csproj",
-      "projectName": "ExceptionHandling",
-      "projectPath": "C:\\Users\\krithish\\source\\repos\\ExceptionHandling\\ExceptionHandling.csproj",
+      "projectUniqueName": "C:\\Users\\krithish\\source\\repos\\Linqq\\Linqq.csproj",
+      "projectName": "Linqq",
+      "projectPath": "C:\\Users\\krithish\\source\\repos\\Linqq\\Linqq.csproj",
       "packagesPath": "C:\\Users\\krithish\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\krithish\\source\\repos\\ExceptionHandling\\obj\\",
+      "outputPath": "C:\\Users\\krithish\\source\\repos\\Linqq\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\krithish\\AppData\\Roaming\\NuGet\\NuGet.Config",
