@@ -1,0 +1,13 @@
+C:\Users\krithish\source\repos\SyncAsync\bin\Debug\netcoreapp3.1\SyncAsync.exe
+C:\Users\krithish\source\repos\SyncAsync\bin\Debug\netcoreapp3.1\SyncAsync.deps.json
+C:\Users\krithish\source\repos\SyncAsync\bin\Debug\netcoreapp3.1\SyncAsync.runtimeconfig.json
+C:\Users\krithish\source\repos\SyncAsync\bin\Debug\netcoreapp3.1\SyncAsync.runtimeconfig.dev.json
+C:\Users\krithish\source\repos\SyncAsync\bin\Debug\netcoreapp3.1\SyncAsync.dll
+C:\Users\krithish\source\repos\SyncAsync\bin\Debug\netcoreapp3.1\SyncAsync.pdb
+C:\Users\krithish\source\repos\SyncAsync\obj\Debug\netcoreapp3.1\SyncAsync.csprojAssemblyReference.cache
+C:\Users\krithish\source\repos\SyncAsync\obj\Debug\netcoreapp3.1\SyncAsync.AssemblyInfoInputs.cache
+C:\Users\krithish\source\repos\SyncAsync\obj\Debug\netcoreapp3.1\SyncAsync.AssemblyInfo.cs
+C:\Users\krithish\source\repos\SyncAsync\obj\Debug\netcoreapp3.1\SyncAsync.csproj.CoreCompileInputs.cache
+C:\Users\krithish\source\repos\SyncAsync\obj\Debug\netcoreapp3.1\SyncAsync.dll
+C:\Users\krithish\source\repos\SyncAsync\obj\Debug\netcoreapp3.1\SyncAsync.pdb
+C:\Users\krithish\source\repos\SyncAsync\obj\Debug\netcoreapp3.1\SyncAsync.genruntimeconfig.cache
