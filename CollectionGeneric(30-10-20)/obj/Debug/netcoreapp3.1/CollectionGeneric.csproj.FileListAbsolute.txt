@@ -1,0 +1,13 @@
+C:\Users\krithish\source\repos\CollectionGeneric\bin\Debug\netcoreapp3.1\CollectionGeneric.exe
+C:\Users\krithish\source\repos\CollectionGeneric\bin\Debug\netcoreapp3.1\CollectionGeneric.deps.json
+C:\Users\krithish\source\repos\CollectionGeneric\bin\Debug\netcoreapp3.1\CollectionGeneric.runtimeconfig.json
+C:\Users\krithish\source\repos\CollectionGeneric\bin\Debug\netcoreapp3.1\CollectionGeneric.runtimeconfig.dev.json
+C:\Users\krithish\source\repos\CollectionGeneric\bin\Debug\netcoreapp3.1\CollectionGeneric.dll
+C:\Users\krithish\source\repos\CollectionGeneric\bin\Debug\netcoreapp3.1\CollectionGeneric.pdb
+C:\Users\krithish\source\repos\CollectionGeneric\obj\Debug\netcoreapp3.1\CollectionGeneric.csprojAssemblyReference.cache
+C:\Users\krithish\source\repos\CollectionGeneric\obj\Debug\netcoreapp3.1\CollectionGeneric.AssemblyInfoInputs.cache
+C:\Users\krithish\source\repos\CollectionGeneric\obj\Debug\netcoreapp3.1\CollectionGeneric.AssemblyInfo.cs
+C:\Users\krithish\source\repos\CollectionGeneric\obj\Debug\netcoreapp3.1\CollectionGeneric.csproj.CoreCompileInputs.cache
+C:\Users\krithish\source\repos\CollectionGeneric\obj\Debug\netcoreapp3.1\CollectionGeneric.dll
+C:\Users\krithish\source\repos\CollectionGeneric\obj\Debug\netcoreapp3.1\CollectionGeneric.pdb
+C:\Users\krithish\source\repos\CollectionGeneric\obj\Debug\netcoreapp3.1\CollectionGeneric.genruntimeconfig.cache
