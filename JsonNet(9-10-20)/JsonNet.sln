@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonNet", "JsonNet.csproj", "{D485DFC6-48E8-4054-B6D8-6F84E9E79C2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerializationDeserialzation", "..\..\SerializationDeserialzation\SerializationDeserialzation.csproj", "{3DA7AB13-5B0D-4920-8D68-5C0704290DCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D485DFC6-48E8-4054-B6D8-6F84E9E79C2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D485DFC6-48E8-4054-B6D8-6F84E9E79C2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D485DFC6-48E8-4054-B6D8-6F84E9E79C2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D485DFC6-48E8-4054-B6D8-6F84E9E79C2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DA7AB13-5B0D-4920-8D68-5C0704290DCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DA7AB13-5B0D-4920-8D68-5C0704290DCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DA7AB13-5B0D-4920-8D68-5C0704290DCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DA7AB13-5B0D-4920-8D68-5C0704290DCB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C246A7E-3B37-4857-A78B-076F46097874}
+	EndGlobalSection
+EndGlobal

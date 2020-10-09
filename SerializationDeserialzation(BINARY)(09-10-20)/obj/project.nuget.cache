@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "R+DqaXGtzeWo2MLFLiiSd1EeIQt015nmYhs/tomxeqcMudVN6ctpZjSpNl9p0R6GOKe9lct/xfweBtOb/ZuSvg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\krithish\\source\\repos\\NewtonSoft_JSON\\SerializationDeserialzation(BINARY)\\SerializationDeserialzation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\krithish\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

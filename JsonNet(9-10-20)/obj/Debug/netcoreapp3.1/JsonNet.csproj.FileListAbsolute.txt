@@ -1,0 +1,15 @@
+C:\Users\krithish\source\repos\Socket\JsonNet\bin\Debug\netcoreapp3.1\JsonNet.exe
+C:\Users\krithish\source\repos\Socket\JsonNet\obj\Debug\netcoreapp3.1\JsonNet.csprojAssemblyReference.cache
+C:\Users\krithish\source\repos\Socket\JsonNet\obj\Debug\netcoreapp3.1\JsonNet.AssemblyInfoInputs.cache
+C:\Users\krithish\source\repos\Socket\JsonNet\obj\Debug\netcoreapp3.1\JsonNet.AssemblyInfo.cs
+C:\Users\krithish\source\repos\Socket\JsonNet\bin\Debug\netcoreapp3.1\JsonNet.deps.json
+C:\Users\krithish\source\repos\Socket\JsonNet\bin\Debug\netcoreapp3.1\JsonNet.runtimeconfig.json
+C:\Users\krithish\source\repos\Socket\JsonNet\bin\Debug\netcoreapp3.1\JsonNet.runtimeconfig.dev.json
+C:\Users\krithish\source\repos\Socket\JsonNet\bin\Debug\netcoreapp3.1\JsonNet.dll
+C:\Users\krithish\source\repos\Socket\JsonNet\bin\Debug\netcoreapp3.1\JsonNet.pdb
+C:\Users\krithish\source\repos\Socket\JsonNet\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\krithish\source\repos\Socket\JsonNet\obj\Debug\netcoreapp3.1\JsonNet.csproj.CoreCompileInputs.cache
+C:\Users\krithish\source\repos\Socket\JsonNet\obj\Debug\netcoreapp3.1\JsonNet.csproj.CopyComplete
+C:\Users\krithish\source\repos\Socket\JsonNet\obj\Debug\netcoreapp3.1\JsonNet.dll
+C:\Users\krithish\source\repos\Socket\JsonNet\obj\Debug\netcoreapp3.1\JsonNet.pdb
+C:\Users\krithish\source\repos\Socket\JsonNet\obj\Debug\netcoreapp3.1\JsonNet.genruntimeconfig.cache

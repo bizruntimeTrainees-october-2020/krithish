@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "o3R/WyG+P5ZTyHNNDqvAQMW2zdUdA3sTfmcHcxtdt5vlGJgkC3QfIIIPEHjDaFCiGRxxpYleJ9OoJ/MfrkpV8Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\krithish\\source\\repos\\Socket\\JsonNet\\JsonNet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\krithish\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

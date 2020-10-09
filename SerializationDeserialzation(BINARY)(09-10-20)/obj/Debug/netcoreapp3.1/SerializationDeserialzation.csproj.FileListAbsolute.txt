@@ -1,0 +1,15 @@
+C:\Users\krithish\source\repos\SerializationDeserialzation\obj\Debug\netcoreapp3.1\SerializationDeserialzation.csprojAssemblyReference.cache
+C:\Users\krithish\source\repos\SerializationDeserialzation\obj\Debug\netcoreapp3.1\SerializationDeserialzation.AssemblyInfoInputs.cache
+C:\Users\krithish\source\repos\SerializationDeserialzation\obj\Debug\netcoreapp3.1\SerializationDeserialzation.AssemblyInfo.cs
+C:\Users\krithish\source\repos\SerializationDeserialzation\obj\Debug\netcoreapp3.1\SerializationDeserialzation.csproj.CoreCompileInputs.cache
+C:\Users\krithish\source\repos\SerializationDeserialzation\bin\Debug\netcoreapp3.1\SerializationDeserialzation.exe
+C:\Users\krithish\source\repos\SerializationDeserialzation\bin\Debug\netcoreapp3.1\SerializationDeserialzation.deps.json
+C:\Users\krithish\source\repos\SerializationDeserialzation\bin\Debug\netcoreapp3.1\SerializationDeserialzation.runtimeconfig.json
+C:\Users\krithish\source\repos\SerializationDeserialzation\bin\Debug\netcoreapp3.1\SerializationDeserialzation.runtimeconfig.dev.json
+C:\Users\krithish\source\repos\SerializationDeserialzation\bin\Debug\netcoreapp3.1\SerializationDeserialzation.dll
+C:\Users\krithish\source\repos\SerializationDeserialzation\bin\Debug\netcoreapp3.1\SerializationDeserialzation.pdb
+C:\Users\krithish\source\repos\SerializationDeserialzation\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\krithish\source\repos\SerializationDeserialzation\obj\Debug\netcoreapp3.1\SerializationDeserialzation.csproj.CopyComplete
+C:\Users\krithish\source\repos\SerializationDeserialzation\obj\Debug\netcoreapp3.1\SerializationDeserialzation.dll
+C:\Users\krithish\source\repos\SerializationDeserialzation\obj\Debug\netcoreapp3.1\SerializationDeserialzation.pdb
+C:\Users\krithish\source\repos\SerializationDeserialzation\obj\Debug\netcoreapp3.1\SerializationDeserialzation.genruntimeconfig.cache
