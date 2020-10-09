@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\krithish\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\krithish\\.nuget\\packages"
+    ]
+  }
+}

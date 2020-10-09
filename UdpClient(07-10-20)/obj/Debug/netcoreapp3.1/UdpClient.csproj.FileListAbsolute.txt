@@ -1,0 +1,13 @@
+C:\Users\krithish\source\repos\Socket\UdpClient\bin\Debug\netcoreapp3.1\UdpClient.exe
+C:\Users\krithish\source\repos\Socket\UdpClient\bin\Debug\netcoreapp3.1\UdpClient.deps.json
+C:\Users\krithish\source\repos\Socket\UdpClient\bin\Debug\netcoreapp3.1\UdpClient.runtimeconfig.json
+C:\Users\krithish\source\repos\Socket\UdpClient\bin\Debug\netcoreapp3.1\UdpClient.runtimeconfig.dev.json
+C:\Users\krithish\source\repos\Socket\UdpClient\bin\Debug\netcoreapp3.1\UdpClient.dll
+C:\Users\krithish\source\repos\Socket\UdpClient\bin\Debug\netcoreapp3.1\UdpClient.pdb
+C:\Users\krithish\source\repos\Socket\UdpClient\obj\Debug\netcoreapp3.1\UdpClient.csprojAssemblyReference.cache
+C:\Users\krithish\source\repos\Socket\UdpClient\obj\Debug\netcoreapp3.1\UdpClient.AssemblyInfoInputs.cache
+C:\Users\krithish\source\repos\Socket\UdpClient\obj\Debug\netcoreapp3.1\UdpClient.AssemblyInfo.cs
+C:\Users\krithish\source\repos\Socket\UdpClient\obj\Debug\netcoreapp3.1\UdpClient.csproj.CoreCompileInputs.cache
+C:\Users\krithish\source\repos\Socket\UdpClient\obj\Debug\netcoreapp3.1\UdpClient.dll
+C:\Users\krithish\source\repos\Socket\UdpClient\obj\Debug\netcoreapp3.1\UdpClient.pdb
+C:\Users\krithish\source\repos\Socket\UdpClient\obj\Debug\netcoreapp3.1\UdpClient.genruntimeconfig.cache
