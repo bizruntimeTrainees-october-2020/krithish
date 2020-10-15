@@ -1,0 +1,15 @@
+2020-10-14 15:23:07.410 +05:30 [INF] Hello, Serilog!
+2020-10-14 15:25:09.301 +05:30 [INF] Hello, Serilog!
+2020-10-14 15:27:27.447 +05:30 [INF] Hello, Serilog!
+2020-10-14 15:27:27.501 +05:30 [INF] Enter Employee ID : 
+2020-10-14 15:27:33.151 +05:30 [INF] Input string was not in a correct format.
+2020-10-14 15:27:51.967 +05:30 [INF] Enter Employee ID : 
+2020-10-14 15:27:57.128 +05:30 [INF] Input string was not in a correct format.
+2020-10-14 15:29:07.150 +05:30 [INF] Enter Employee ID : 
+2020-10-14 15:29:11.403 +05:30 [INF] Enter Employee name : 
+2020-10-14 15:29:14.265 +05:30 [INF] Enter Employee Salarry : 
+2020-10-14 15:30:53.829 +05:30 [INF] Enter Employee ID : 
+2020-10-14 15:31:24.459 +05:30 [INF] Enter Employee ID : 
+2020-10-14 15:31:29.352 +05:30 [INF] Enter Employee name : 
+2020-10-14 15:31:39.170 +05:30 [INF] Enter Employee Salarry : 
+2020-10-14 15:51:33.193 +05:30 [INF] Enter Employee ID : 
