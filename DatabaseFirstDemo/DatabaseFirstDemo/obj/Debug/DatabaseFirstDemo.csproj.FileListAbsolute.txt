@@ -1,0 +1,12 @@
+C:\Users\krith\source\repos\DatabaseFirstDemo\DatabaseFirstDemo\bin\Debug\DatabaseFirstDemo.exe.config
+C:\Users\krith\source\repos\DatabaseFirstDemo\DatabaseFirstDemo\bin\Debug\DatabaseFirstDemo.exe
+C:\Users\krith\source\repos\DatabaseFirstDemo\DatabaseFirstDemo\bin\Debug\DatabaseFirstDemo.pdb
+C:\Users\krith\source\repos\DatabaseFirstDemo\DatabaseFirstDemo\bin\Debug\EntityFramework.dll
+C:\Users\krith\source\repos\DatabaseFirstDemo\DatabaseFirstDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\krith\source\repos\DatabaseFirstDemo\DatabaseFirstDemo\bin\Debug\EntityFramework.xml
+C:\Users\krith\source\repos\DatabaseFirstDemo\DatabaseFirstDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\krith\source\repos\DatabaseFirstDemo\DatabaseFirstDemo\obj\Debug\DatabaseFirstDemo.csprojAssemblyReference.cache
+C:\Users\krith\source\repos\DatabaseFirstDemo\DatabaseFirstDemo\obj\Debug\DatabaseFirstDemo.csproj.CoreCompileInputs.cache
+C:\Users\krith\source\repos\DatabaseFirstDemo\DatabaseFirstDemo\obj\Debug\DatabaseFirstDemo.csproj.CopyComplete
+C:\Users\krith\source\repos\DatabaseFirstDemo\DatabaseFirstDemo\obj\Debug\DatabaseFirstDemo.exe
+C:\Users\krith\source\repos\DatabaseFirstDemo\DatabaseFirstDemo\obj\Debug\DatabaseFirstDemo.pdb
