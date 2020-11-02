@@ -1,0 +1,17 @@
+C:\Users\krith\source\repos\RxExample1\RxExample1\obj\Debug\netcoreapp3.1\RxExample1.csprojAssemblyReference.cache
+C:\Users\krith\source\repos\RxExample1\RxExample1\obj\Debug\netcoreapp3.1\RxExample1.AssemblyInfoInputs.cache
+C:\Users\krith\source\repos\RxExample1\RxExample1\obj\Debug\netcoreapp3.1\RxExample1.AssemblyInfo.cs
+C:\Users\krith\source\repos\RxExample1\RxExample1\obj\Debug\netcoreapp3.1\RxExample1.csproj.CoreCompileInputs.cache
+C:\Users\krith\source\repos\RxExample1\RxExample1\bin\Debug\netcoreapp3.1\RxExample1.exe
+C:\Users\krith\source\repos\RxExample1\RxExample1\bin\Debug\netcoreapp3.1\RxExample1.deps.json
+C:\Users\krith\source\repos\RxExample1\RxExample1\bin\Debug\netcoreapp3.1\RxExample1.runtimeconfig.json
+C:\Users\krith\source\repos\RxExample1\RxExample1\bin\Debug\netcoreapp3.1\RxExample1.runtimeconfig.dev.json
+C:\Users\krith\source\repos\RxExample1\RxExample1\bin\Debug\netcoreapp3.1\RxExample1.dll
+C:\Users\krith\source\repos\RxExample1\RxExample1\bin\Debug\netcoreapp3.1\RxExample1.pdb
+C:\Users\krith\source\repos\RxExample1\RxExample1\bin\Debug\netcoreapp3.1\System.Reactive.Linq.dll
+C:\Users\krith\source\repos\RxExample1\RxExample1\bin\Debug\netcoreapp3.1\System.Reactive.dll
+C:\Users\krith\source\repos\RxExample1\RxExample1\bin\Debug\netcoreapp3.1\System.Reactive.xml
+C:\Users\krith\source\repos\RxExample1\RxExample1\obj\Debug\netcoreapp3.1\RxExample1.csproj.CopyComplete
+C:\Users\krith\source\repos\RxExample1\RxExample1\obj\Debug\netcoreapp3.1\RxExample1.dll
+C:\Users\krith\source\repos\RxExample1\RxExample1\obj\Debug\netcoreapp3.1\RxExample1.pdb
+C:\Users\krith\source\repos\RxExample1\RxExample1\obj\Debug\netcoreapp3.1\RxExample1.genruntimeconfig.cache

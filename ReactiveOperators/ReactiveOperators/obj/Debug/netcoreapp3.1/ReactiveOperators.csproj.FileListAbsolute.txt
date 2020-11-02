@@ -1,0 +1,17 @@
+C:\Users\krith\source\repos\ReactiveOperators\ReactiveOperators\bin\Debug\netcoreapp3.1\ReactiveOperators.exe
+C:\Users\krith\source\repos\ReactiveOperators\ReactiveOperators\bin\Debug\netcoreapp3.1\ReactiveOperators.deps.json
+C:\Users\krith\source\repos\ReactiveOperators\ReactiveOperators\bin\Debug\netcoreapp3.1\ReactiveOperators.runtimeconfig.json
+C:\Users\krith\source\repos\ReactiveOperators\ReactiveOperators\bin\Debug\netcoreapp3.1\ReactiveOperators.runtimeconfig.dev.json
+C:\Users\krith\source\repos\ReactiveOperators\ReactiveOperators\bin\Debug\netcoreapp3.1\ReactiveOperators.dll
+C:\Users\krith\source\repos\ReactiveOperators\ReactiveOperators\bin\Debug\netcoreapp3.1\ReactiveOperators.pdb
+C:\Users\krith\source\repos\ReactiveOperators\ReactiveOperators\bin\Debug\netcoreapp3.1\System.Reactive.Linq.dll
+C:\Users\krith\source\repos\ReactiveOperators\ReactiveOperators\bin\Debug\netcoreapp3.1\System.Reactive.dll
+C:\Users\krith\source\repos\ReactiveOperators\ReactiveOperators\bin\Debug\netcoreapp3.1\System.Reactive.xml
+C:\Users\krith\source\repos\ReactiveOperators\ReactiveOperators\obj\Debug\netcoreapp3.1\ReactiveOperators.csprojAssemblyReference.cache
+C:\Users\krith\source\repos\ReactiveOperators\ReactiveOperators\obj\Debug\netcoreapp3.1\ReactiveOperators.AssemblyInfoInputs.cache
+C:\Users\krith\source\repos\ReactiveOperators\ReactiveOperators\obj\Debug\netcoreapp3.1\ReactiveOperators.AssemblyInfo.cs
+C:\Users\krith\source\repos\ReactiveOperators\ReactiveOperators\obj\Debug\netcoreapp3.1\ReactiveOperators.csproj.CoreCompileInputs.cache
+C:\Users\krith\source\repos\ReactiveOperators\ReactiveOperators\obj\Debug\netcoreapp3.1\ReactiveOperators.csproj.CopyComplete
+C:\Users\krith\source\repos\ReactiveOperators\ReactiveOperators\obj\Debug\netcoreapp3.1\ReactiveOperators.dll
+C:\Users\krith\source\repos\ReactiveOperators\ReactiveOperators\obj\Debug\netcoreapp3.1\ReactiveOperators.pdb
+C:\Users\krith\source\repos\ReactiveOperators\ReactiveOperators\obj\Debug\netcoreapp3.1\ReactiveOperators.genruntimeconfig.cache
