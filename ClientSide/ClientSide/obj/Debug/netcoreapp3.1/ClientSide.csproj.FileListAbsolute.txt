@@ -1,0 +1,13 @@
+C:\Users\krith\source\repos\ClientSide\ClientSide\bin\Debug\netcoreapp3.1\ClientSide.exe
+C:\Users\krith\source\repos\ClientSide\ClientSide\bin\Debug\netcoreapp3.1\ClientSide.deps.json
+C:\Users\krith\source\repos\ClientSide\ClientSide\bin\Debug\netcoreapp3.1\ClientSide.runtimeconfig.json
+C:\Users\krith\source\repos\ClientSide\ClientSide\bin\Debug\netcoreapp3.1\ClientSide.runtimeconfig.dev.json
+C:\Users\krith\source\repos\ClientSide\ClientSide\bin\Debug\netcoreapp3.1\ClientSide.dll
+C:\Users\krith\source\repos\ClientSide\ClientSide\bin\Debug\netcoreapp3.1\ClientSide.pdb
+C:\Users\krith\source\repos\ClientSide\ClientSide\obj\Debug\netcoreapp3.1\ClientSide.csprojAssemblyReference.cache
+C:\Users\krith\source\repos\ClientSide\ClientSide\obj\Debug\netcoreapp3.1\ClientSide.AssemblyInfoInputs.cache
+C:\Users\krith\source\repos\ClientSide\ClientSide\obj\Debug\netcoreapp3.1\ClientSide.AssemblyInfo.cs
+C:\Users\krith\source\repos\ClientSide\ClientSide\obj\Debug\netcoreapp3.1\ClientSide.csproj.CoreCompileInputs.cache
+C:\Users\krith\source\repos\ClientSide\ClientSide\obj\Debug\netcoreapp3.1\ClientSide.dll
+C:\Users\krith\source\repos\ClientSide\ClientSide\obj\Debug\netcoreapp3.1\ClientSide.pdb
+C:\Users\krith\source\repos\ClientSide\ClientSide\obj\Debug\netcoreapp3.1\ClientSide.genruntimeconfig.cache

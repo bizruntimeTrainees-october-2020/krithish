@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TTdGQCWMo91z4OxIUAKiOe/iYU5ogYKMC0Uoir/GqaEPxfyANoAtBTEF4Hc+KStFe//P6012CUhoBmtU0fTPaQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\krith\\source\\repos\\ServerSide\\ServerSide\\ServerSide.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\krith\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
